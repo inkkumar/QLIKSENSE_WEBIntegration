@@ -1,0 +1,29 @@
+{
+  "name": "jwt_mashup_qlik_sense_saas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "follow-redirects": "^1.14.2",
+    "express": "^4.17.1",
+    "html": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackBrioschi/Basic_Iframe_with_JWT_Authentication_Qlik_Sense_SaaS-.git"
+  },
+  "author": "Giacomo Brioschi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackBrioschi/Basic_Iframe_with_JWT_Authentication_Qlik_Sense_SaaS-/issues"
+  },
+  "homepage": "https://github.com/jackBrioschi/Basic_Iframe_with_JWT_Authentication_Qlik_Sense_SaaS-#readme"
+}

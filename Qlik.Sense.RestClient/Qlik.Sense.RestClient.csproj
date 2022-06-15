@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net452;netcoreapp2.1</TargetFrameworks>
+  </PropertyGroup>
+
+ 
+
+    <ItemGroup>
+      <None Remove="build" />
+      <None Remove="build.bat" />
+      <None Remove="mkNugetPkg" />
+      <None Remove="Qlik.Sense.RestClient.nuspec" />
+      <None Remove="Qlik.Sense.RestClient.nuspec.template" />
+      <None Remove="*.nupkg" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="System.Net.Http" />
+    </ItemGroup>
+    <ItemGroup Condition="'$(TargetFramework)' == 'net452'">
+        <Reference Include="System.Net.Http.WebRequest" />
+    </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+E:\Qliksense Automations\qlik_rest_sdk-master\Qlik.Sense.RestClient\bin\Debug\net452\Qlik.Sense.RestClient.dll
+E:\Qliksense Automations\qlik_rest_sdk-master\Qlik.Sense.RestClient\bin\Debug\net452\Qlik.Sense.RestClient.pdb
+E:\Qliksense Automations\qlik_rest_sdk-master\Qlik.Sense.RestClient\obj\Debug\net452\Qlik.Sense.RestClient.csprojAssemblyReference.cache
+E:\Qliksense Automations\qlik_rest_sdk-master\Qlik.Sense.RestClient\obj\Debug\net452\Qlik.Sense.RestClient.csproj.CoreCompileInputs.cache
+E:\Qliksense Automations\qlik_rest_sdk-master\Qlik.Sense.RestClient\obj\Debug\net452\Qlik.Sense.RestClient.AssemblyInfo.cs
+E:\Qliksense Automations\qlik_rest_sdk-master\Qlik.Sense.RestClient\obj\Debug\net452\Qlik.Sense.RestClient.dll
+E:\Qliksense Automations\qlik_rest_sdk-master\Qlik.Sense.RestClient\obj\Debug\net452\Qlik.Sense.RestClient.pdb

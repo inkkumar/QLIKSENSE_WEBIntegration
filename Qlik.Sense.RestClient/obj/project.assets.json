@@ -1,0 +1,52 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {},
+    ".NETFramework,Version=v4.5.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [],
+    ".NETFramework,Version=v4.5.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\kks\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Qliksense Automations\\qlik_rest_sdk-master\\Qlik.Sense.RestClient\\Qlik.Sense.RestClient.csproj",
+      "projectName": "Qlik.Sense.RestClient",
+      "projectPath": "E:\\Qliksense Automations\\qlik_rest_sdk-master\\Qlik.Sense.RestClient\\Qlik.Sense.RestClient.csproj",
+      "packagesPath": "C:\\Users\\kks\\.nuget\\packages\\",
+      "outputPath": "E:\\Qliksense Automations\\qlik_rest_sdk-master\\Qlik.Sense.RestClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\kks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452",
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/packages/QlikSense.NetSDK/": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {}
+        },
+        "net452": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {},
+      "net452": {}
+    }
+  }
+}
